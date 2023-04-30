@@ -1,6 +1,6 @@
 html{
     scroll-behavior: smooth;
-    background-image: url(../PORTIFOLIO/imagens/paodeacucar3.jpg);
+    background-image: url(../imagens/paodeacucar3.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -90,7 +90,7 @@ article{
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
-    background: url(../PORTIFOLIO/imagens/montanha.png);
+    background: url(../imagens/montanha.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
