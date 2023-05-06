@@ -90,7 +90,7 @@ article{
     flex-direction: row;
     justify-content: space-between;
     align-items: baseline;
-    background: url(../images/montanha1.png);
+    background: url(./images/montanha1.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
