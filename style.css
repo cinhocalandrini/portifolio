@@ -88,9 +88,8 @@ article{
     margin-bottom: 50px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: baseline;
-   background-image: url(./images/montanha.png);
+   background-image: linear-gradient(to bottom, transparent, rgba(238, 160, 16, 0.1), orange), url(./images/montanha.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
