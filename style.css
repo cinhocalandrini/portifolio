@@ -89,7 +89,7 @@ article{
     display: flex;
     flex-direction: row;
     align-items: baseline;
-   background-image: linear-gradient(to bottom, transparent, rgba(238, 160, 16, 0.1), orange), url(./images/montanha.png);
+   background-image:linear-gradient(to bottom, transparent, rgba(238, 160, 16, 0.1), rgba(240, 175, 55, 0.5)), url(./images/montanha.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
